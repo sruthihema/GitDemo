@@ -18,5 +18,8 @@ public class RestAPITest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("Androd mobile API");
+		System.out.println("Androd mobile API");
+		System.out.println("Androd mobile API");
+		System.out.println("Androd mobile API");
 	}
 }
