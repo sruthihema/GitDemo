@@ -16,4 +16,10 @@ public class AppiumTest {
 		System.out.println("IOS mobile");
 		System.out.println("IOS mobile");
 	}
+	@Test
+	public void nativeIOS1() {
+		System.out.println("IOS mobile");
+		System.out.println("IOS mobile");
+		System.out.println("IOS mobile");
+	}
 }
