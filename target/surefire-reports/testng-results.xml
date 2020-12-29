@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-01T16:26:41 IST" name="Suite" finished-at="2020-12-01T16:26:41 IST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2020-12-01T16:26:41 IST" name="Test" finished-at="2020-12-01T16:26:41 IST" duration-ms="33">
+      <class name="udemycourse.MavenJavaPractice.SeleniumTest">
+        <test-method signature="elementsUI()[pri:0, instance:udemycourse.MavenJavaPractice.SeleniumTest@69fb6037]" started-at="2020-12-01T16:26:41 IST" name="elementsUI" finished-at="2020-12-01T16:26:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+        <test-method signature="BrowserAutomation()[pri:0, instance:udemycourse.MavenJavaPractice.SeleniumTest@69fb6037]" started-at="2020-12-01T16:26:41 IST" name="BrowserAutomation" finished-at="2020-12-01T16:26:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- udemycourse.MavenJavaPractice.SeleniumTest -->
+      <class name="udemycourse.MavenJavaPractice.RestAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:udemycourse.MavenJavaPractice.RestAPITest@5f16132a]" started-at="2020-12-01T16:26:41 IST" name="deleteTwitter" finished-at="2020-12-01T16:26:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:udemycourse.MavenJavaPractice.RestAPITest@5f16132a]" started-at="2020-12-01T16:26:41 IST" name="postJira" finished-at="2020-12-01T16:26:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- udemycourse.MavenJavaPractice.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
